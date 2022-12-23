@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T07:46:31.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="oT0BXk81Fm-FruMbVVp7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T07:48:57.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="kHmNar7XCd8F41q15wAC" type="github">
   <diagram id="-3zqTAh-xg7i64ALkLKc" name="Trang-1">
-    <mxGraphModel dx="2421" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,6 +618,9 @@
         </mxCell>
         <mxCell id="O5Tuc83xGxFX8-Wz3Tim-195" value="holds" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O5Tuc83xGxFX8-Wz3Tim-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="O5Tuc83xGxFX8-Wz3Tim-28" target="O5Tuc83xGxFX8-Wz3Tim-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
